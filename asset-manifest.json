@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-shopper/static/css/main.54b4c1bd.chunk.css",
+    "main.js": "/react-shopper/static/js/main.659bd614.chunk.js",
+    "main.js.map": "/react-shopper/static/js/main.659bd614.chunk.js.map",
+    "runtime-main.js": "/react-shopper/static/js/runtime-main.0879680d.js",
+    "runtime-main.js.map": "/react-shopper/static/js/runtime-main.0879680d.js.map",
+    "static/js/2.9c5524c0.chunk.js": "/react-shopper/static/js/2.9c5524c0.chunk.js",
+    "static/js/2.9c5524c0.chunk.js.map": "/react-shopper/static/js/2.9c5524c0.chunk.js.map",
+    "index.html": "/react-shopper/index.html",
+    "precache-manifest.47c2ccee546b2f0bd2e02efcd3b7bb93.js": "/react-shopper/precache-manifest.47c2ccee546b2f0bd2e02efcd3b7bb93.js",
+    "service-worker.js": "/react-shopper/service-worker.js",
+    "static/css/main.54b4c1bd.chunk.css.map": "/react-shopper/static/css/main.54b4c1bd.chunk.css.map",
+    "static/js/2.9c5524c0.chunk.js.LICENSE.txt": "/react-shopper/static/js/2.9c5524c0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0879680d.js",
+    "static/js/2.9c5524c0.chunk.js",
+    "static/css/main.54b4c1bd.chunk.css",
+    "static/js/main.659bd614.chunk.js"
+  ]
+}
