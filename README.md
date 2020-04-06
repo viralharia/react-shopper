@@ -1,6 +1,8 @@
 # Shopper
 
-A simple shopping site that will demonstrate the basic react things that I have learnt till now (my first react mini app).
+A simple shopping site that demonstrates the basic react things that I have learnt till now (my first react mini app)
+
+Demo - https://viralharia.github.io/react-shopper/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
