@@ -1,0 +1,41 @@
+.CartPage-items {
+    margin: 0;
+    padding: 0;
+    
+  }
+
+  .CartPage-items li {
+    list-style: none;
+  }
+
+  .CartItem-count {
+    padding: 5px 10px;
+    border: 1px solid #ccc;
+}
+
+.CartItem-addOne,
+.CartItem-removeOne {
+  padding: 5px 10px;
+  border: 1px solid #ccc;
+  background: #fff;
+}
+.CartItem-addOne {
+  border-left: none;
+}
+.CartItem-removeOne {
+  border-right: none;
+}
+
+.Total-CartValue{
+  float: right;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+/* .Empty-Cart{
+  border: 1px solid #ccc;
+  width: 100%;
+  height: 100%;
+  align-items: center;
+} */
+
